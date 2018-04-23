@@ -1,0 +1,30 @@
+{
+  "name": "react-plug",
+  "version": "0.0.1",
+  "description": "react插件",
+  "main": "index.js",
+  "types": "index.d.ts",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+ https://github.com/lusess123/akvue.git"
+  },
+  "author": "zyk2003xxx@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lusess123/akvue/issues"
+  },
+  "homepage": "https://github.com/lusess123/akvue/packages/ak-lib-react#readme",
+  "dependencies": {
+    "react":"*",
+    "react-dom":"*",
+    "@types/react":"*",
+     "@types/react-dom":"*"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.2",
+    "shx": "^0.2.2",
+    "typescript": "*"
+  }
+}
+ 

@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+packages/umi-host/pages/.umi
+
